@@ -15,7 +15,7 @@ const readme = `\
 ### Hi there 👋
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
-![snake animation](https://raw.githubusercontent.com/huxiaohuanzhai/huxiaohuanzhai/output/github-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/huxiaohuanzhai/huxiaohuanzhai/output/github-snake.gif)
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 `
