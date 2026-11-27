@@ -1,7 +1,7 @@
 ### Hi there 👋
-⏳ Year progress { ███████████████████████████▁▁▁ } 90.38 %
+⏳ Year progress { ███████████████████████████▁▁▁ } 90.49 %
 ---
 ![snake animation](https://raw.githubusercontent.com/huxiaohuanzhai/huxiaohuanzhai/output/github-snake.gif)
 ---
-⏰ Updated on Thu, 26 Nov 2026 21:04:44 GMT
+⏰ Updated on Fri, 27 Nov 2026 07:19:12 GMT
 
